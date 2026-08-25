@@ -1,0 +1,14 @@
+# 問題 33 break の使用
+# 変数 x に数値 5 を代入してください。
+# 0 から 9 までの数を順番に出力するfor ループ内で break を使用し、
+# 出力する値が x になった時点で処理を終了してください。
+
+def main():
+    x = 5
+    for item in range(10):
+        if item == x:
+            break
+        print(item)
+
+if __name__ == "__main__":
+    main()

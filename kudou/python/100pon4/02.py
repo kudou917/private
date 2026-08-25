@@ -1,0 +1,10 @@
+# print 関数を複数回使って、1、2、3 を順番に出力してください。
+def main():
+    print(1)
+    print(2)
+    print(3)
+
+
+
+if __name__ == "__main__":
+    main()
