@@ -19,3 +19,53 @@ Cpractice/
 
 #正規表現の練習
 vscodetest/
+
+# Visual Studio user specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache/build directories
+.vs/
+[Dd]ebug/
+[Dd]ebugPS/
+[Dd]ebugStatic/
+[Re]lease/
+[Re]leasePS/
+[Rr]eleaseStatic/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+ipch/
+
+# Visual Studio Profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Visual Studio Code (VS Codeを使う場合)
+.vscode/
+
+# Build results
+*.exe
+*.dll
+*.lib
+*.obj
+*.idb
+*.pdb
+*.ilk
+*.aps
+*.ncb
+*.pch
+*.exp
+*.sdf
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.temp
+*.log
+*.vsix
